@@ -1,1 +1,0 @@
-print("boss kurt sakalam")
