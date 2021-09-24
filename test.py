@@ -9,6 +9,7 @@ print("Hello po")
 print("hi guys yaw ko na maging programmer")
 print("hi guys yaw ko na maging programmer")
 print("-charles") 
-print("try naten ulet ") 
+print("try naten ulet ")
+print("try naten ulet (2)")  
 
 
