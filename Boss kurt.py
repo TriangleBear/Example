@@ -1,0 +1,1 @@
+print("boss kurt sakalam")
